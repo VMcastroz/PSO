@@ -1,2 +1,2 @@
 # PSO
-Projeto de sistemas de análise orientado a objetos - Edydio
+Projeto de sistemas de orientado a objetos - Edydio
