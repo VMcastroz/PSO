@@ -6,7 +6,10 @@ As ferramentas utilizadas para o desenvolvimento da análise do projeto foram as
 • Astah - diagramas UML<br>
 • Metodologia scrum - auxiliar na organização da entrega das atividades por meio das sprints
 
-# 
+# 📆**Sprints**
+Abaixo é possivel encontrar o link das sprints com sua pasta e arquivos, contendo seus respectivos updates e novas publicações
+
+
 
 
 
