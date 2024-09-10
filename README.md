@@ -1,5 +1,13 @@
 #  📌**Descrição**
 Este repositório tem o objeto de documentar e organizar o desenvolvimento da análise do software fictício LUNA - referente a matéria de projeto de sistemas orientado a objetos
-O projeto trabalha com a me
+
+#  🛠️**Ferramentas**
+As ferramentas utilizadas para o desenvolvimento da análise do projeto foram as seguintes:
+• Astah - todos dos diagramas UML 
+• Metodologia scrum - auxiliar na organização da entrega das atividades
+
+
+
+
 
 
