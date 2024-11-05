@@ -7,7 +7,7 @@ As ferramentas utilizadas para o desenvolvimento da análise do projeto foram as
 • Metodologia scrum - auxiliar na organização da entrega das atividades por meio das sprints
 
 # 🔗**Projeto**
-Abaixo é possivel encontrar o link do projeto completo desenolvido no astah
+Link do projeto completo desenolvido no astah: 
 https://github.com/VMcastroz/PSO/blob/main/LUNA.asta
 
 
